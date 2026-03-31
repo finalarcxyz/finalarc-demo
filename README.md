@@ -69,10 +69,10 @@ Bags is the natural home for the ownership and monetization layer on top of the 
 ## Screenshots
 
 > Homepage
-![Homepage](screenshots/home.png)
+![Homepage](screenshots/homes.png)
 
 > Battle page
-![Battle](screenshots/matchup.png)
+![Battle](screenshots/browse.png)
 
 > Browse page
 ![Browse](screenshots/battle.png)
